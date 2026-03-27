@@ -1,1 +1,1 @@
-hackathon-transneft-2026
+hackathon
